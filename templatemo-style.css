@@ -180,6 +180,18 @@ footer {
   background: #161616;
 }
 
+  .bg-mustard {          /*added background colors*/
+    background: #f9d392;
+}
+
+.bg-brown {
+  background:#604941;
+}
+
+.bg-mustard2 {
+  background: #dbb18b;
+}
+
 
 
 /*---------------------------------------
@@ -392,14 +404,14 @@ a:hover, a:active, a:focus {
 }
 
 #about .progress {
-  background: #ffffff;
+  background: black;
   border-radius: 0px;
   box-shadow: none;
   height: 2px;
 }
 
 #about .progress-bar-primary {
-  background: #232B2B;
+  background: white;
 }
 
 #about strong,
@@ -416,7 +428,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #604941;
+  background: #f9d392;
 }
 
 #service p {
@@ -439,6 +451,9 @@ a:hover, a:active, a:focus {
     Experience section              
 -----------------------------------------*/
 
+#experience {
+  background: #f9d392;
+}
 #experience .experience-img {
   background: url('../images/experience-img.jpeg') no-repeat;
 }
@@ -453,7 +468,7 @@ a:hover, a:active, a:focus {
 }
 
 #experience small {
-  color: #604941;
+  color: #f9d392;
   font-weight: bold;
 }
 
@@ -462,7 +477,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #f9d392;
+  background:#dbb18b ;
 }
 
 #education .education-img {
@@ -523,7 +538,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #604941;
+  background: #f9d392;
 }
 
 #contact .contact-form,
