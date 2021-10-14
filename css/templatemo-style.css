@@ -52,7 +52,7 @@ h3 {
 }
 
 h4 {
-  color: #999;
+  color: black;
   font-size: 12px;
   font-weight: normal;
   letter-spacing: 2px;
@@ -349,7 +349,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .col-md-6 {
-  background: #f59826;
+  background: #dbb18b;
 /* light blue color: #c3eafd; */
   padding-right: 0;
   padding-left: 0;
@@ -416,7 +416,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #E9724C;
+  background: #604941;
 }
 
 #service p {
@@ -453,7 +453,7 @@ a:hover, a:active, a:focus {
 }
 
 #experience small {
-  color: #633;
+  color: #604941;
   font-weight: bold;
 }
 
@@ -462,7 +462,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #E3AE57;
+  background: #f9d392;
 }
 
 #education .education-img {
@@ -523,7 +523,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #E9724C;
+  background: #604941;
 }
 
 #contact .contact-form,
